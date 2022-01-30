@@ -1,0 +1,50 @@
+{
+    "firstName": "Caldewood",
+    "lastName": "Alikula",
+    "otherNames": "Owen",
+    "dateOfBirth": "Sept 1998",
+    "personalDetails": "",
+    "education ": [{
+        "name": "Chavakali High School",
+        "start": "Jan 2012",
+        "end": "Dec 2016",
+        "achievements": "Kenya Certificate of Secondary Education",
+        "Abbrv": "K.C.S.E"
+    }, {
+        "name": "Machakos University",
+        "start": "Sept 2017",
+        "end": "Apr 2022",
+        "achievements": "Bachelor of Science Degree ",
+        "Abbrv": "BSc. IT"
+
+    }],
+    "experience": {
+        "organization": [{
+            "Name": "Machakos University",
+            "start": "Jan 2021",
+            "end": "Apr 2021",
+            "jobType": "IT Operations",
+            "role": "IT Intern",
+            "description": "Lopus Ipsum "
+        }, {
+            "Name": "Kenya National Board of Stattistics",
+            "start": "Jan 2021",
+            "end": "Apr 2021",
+            "jobType": "Data Entry",
+            "role": "Enumerator",
+            "description": "Lopus Ipsum "
+        }, {
+            "Name": "Cifars Group ",
+            "start": "Jan 2021",
+            "end": "Apr 2021",
+            "jobType": "IT Operations",
+            "role": "Web Admin",
+            "description": "Lopus Ipsum "
+        }]
+    },
+    "skills": "",
+    "hobbies": [
+
+    ]
+
+}

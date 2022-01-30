@@ -1,25 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import Left from "./components/left";
+import Right from "./components/Right";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default function App() {
+  return <div className="flex h-full w-full bg-gradient-to-r from-cyan-500 to-blue-500 overflow-hidden">
+    <Left/>
+    <Right/>
+ </div>   
 }
-
-export default App;
